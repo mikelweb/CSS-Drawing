@@ -1,0 +1,48 @@
+:root {
+	--ball-width-height: 375px;
+}
+body {
+	overflow-x: hidden;
+}
+.layout {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+.layout__container {
+	position: relative;
+	width: 900px;
+	height: 600px;
+	overflow: hidden;
+	border: 3px solid #ccc;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.layout__img {
+	display: block;
+	position: absolute;
+	opacity: 0.5;
+	width: 550px;
+	z-index: 3;
+}
+.layout__logo {
+	z-index: 2;
+	position: absolute;
+	width: 390px;
+	height: 442px;
+	background: #E54C21;
+	top: 130px;
+	left: 252px;
+	clip-path: polygon(0% 0%, 100% 0%, 91% 90.45%, 50% 100%, 9% 91%);
+}
+.logo__number {
+	
+}
+
+
+
+
