@@ -22,15 +22,7 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.layout__img {
-	display: block;
-	position: absolute;
-	opacity: 0.5;
-	width: 550px;
-	z-index: 3;
-}
 .layout__logo {
-	z-index: 2;
 	position: absolute;
 	width: 390px;
 	height: 442px;
@@ -40,9 +32,29 @@ body {
 	clip-path: polygon(0% 0%, 100% 0%, 91% 90.45%, 50% 100%, 9% 91%);
 }
 .logo__number {
-	
+	position: absolute;
+	width: 243px;
+	height: 277px;
+	background: linear-gradient(to right, #ececec 0%, #ececec 50%, #fff 50%, #fff 100%);
+	top: 81px;
+	left: 73px;
+	clip-path: polygon(0% 0%, 100% 0%, 98% 17%, 22% 18%, 24% 35%, 97% 35%, 91% 90%, 50% 100%, 10% 91%, 6% 62%, 27% 62%, 27% 76%, 50% 81%, 73% 76%, 75% 53%, 5% 54%);
 }
-
-
+.logo__poligono {
+	position: absolute;
+	width: 156px;
+	height: 380px;
+	background-color: #f16524;
+	left: 40px;
+	top: 33px;
+	clip-path: polygon(0% 0%, 100% 0%, 99% 98%, 18% 89%);
+}
+.layout__title {
+	position: absolute;
+	top: -20px;
+	font-family: Arial;
+	font-weight: 900;
+	font-size: 100px;
+}
 
 
