@@ -19,13 +19,51 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.layout__img {
-	display: block;
+.layout__horn--left {
+	background-color: #ccc;
+	width: 30px;
+	height: 59px;
 	position: absolute;
-	z-index: 3;
-	width: 400px;
-	opacity: 0.5;
+	top: -5px;
+	left: 87px;
+	z-index: -1;
+	border-radius: 50%;
+	transform: rotate(28deg);
 }
+.layout__horn--left::before {
+	content: "";
+	background-color: #fff;
+	position: absolute;
+	top: -2px;
+	left: 8px;
+	width: 20px;
+	height: 34px;
+	border-radius: 50%;
+	transform: rotate(-12deg);
+}
+.layout__horn--right {
+	background-color: #ccc;
+	width: 30px;
+	height: 59px;
+	position: absolute;
+	top: -5px;
+	left: 254px;
+	z-index: -1;
+	border-radius: 50%;
+	transform: rotate(-28deg);
+}
+.layout__horn--right::before {
+	content: "";
+	background-color: #fff;
+	position: absolute;
+	top: -2px;
+	left: 0px;
+	width: 20px;
+	height: 34px;
+	border-radius: 50%;
+	transform: rotate(12deg);
+}
+
 .layout__head {
 	background-color: #aee151;
 	width: 371px;
@@ -74,4 +112,48 @@ body {
 	width: 20px;
 	height: 20px;
 	border-radius: 100%;
+}
+.head__mouth {
+	height: 77px;
+	width: 174px;
+	background: linear-gradient(to bottom, #000 0%, #000 70%, #989948 70%, #989948 100%);
+	position: absolute;
+	top: 70%;
+	left: 27%;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.mouth__teeth {
+	position: absolute;
+	width: 40px;
+	height: 74px;
+	border-radius: 50%;
+	background-color: #fff;
+	overflow: hidden;
+}
+.mouth__teeth--1 {
+	left: 21px;
+	top: 56px;
+}
+.mouth__teeth--2 {
+	left: 53px;
+	top: 62px;
+}
+.mouth__teeth--3 {
+	left: 85px;
+	top: 62px;
+}
+.mouth__teeth--4 {
+	left: 115px;
+	top: 62px;
+}
+.mouth__beard {
+	position: absolute;
+	width: 90px;
+	height: 12px;
+	top: 74%;
+	left: 45%;
+	background-color: #7b7b7b5e;
+	border-radius: 50%;
 }
