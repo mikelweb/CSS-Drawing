@@ -1,0 +1,28 @@
+body {
+	overflow-x: hidden;
+}
+.layout {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: auto;
+}
+.layout__container {
+	position: relative;
+	width: 900px;
+	height: 600px;
+	overflow: hidden;
+	border: 3px solid #ccc;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.layout__img {
+	display: block;
+	position: absolute;
+	width: 400px;
+	z-index: 3;
+	opacity: 0.5;
+}
