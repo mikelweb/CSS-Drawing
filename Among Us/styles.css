@@ -26,3 +26,55 @@ body {
 	z-index: 3;
 	opacity: 0.5;
 }
+.layout__body {
+	position: absolute;
+	top: 34px;
+	left: 322px;
+	width: 302px;
+	height: 397px;
+	background-color: #780A37;
+	border: 22px solid black;
+	border-bottom: 20px solid transparent;
+	border-radius: 37% 53% 2% 0% / 47% 45% 0% 0%;
+}
+.layout__body::before {
+	content: "";
+	position: absolute;
+	left: 23px;
+	top: 8px;
+	width: 230px;
+	height: 321px;
+	background-color: #BF1601;
+	border-radius: 22% 58% 30% 38% / 25% 35% 30% 65%;
+}
+.body__glasses {
+	position: absolute;
+	top: 54px;
+	left: 69px;
+	width: 229px;
+	height: 164px;
+	border: 22px solid black;
+	background-color: #49646F;
+	border-radius: 44% 50% 49% 42% / 44% 50% 61% 62%;
+}
+.body__glasses::before {
+	content: "";
+	position: absolute;
+	top: 11px;
+	left: 69px;
+	height: 34px;
+	width: 90px;
+	border-radius: 58% 51% 36% 33%;
+	background-color: #fff;
+	transform: rotate(10deg);
+}
+.body__glasses::after {
+	content: "";
+	position: absolute;
+	top: 7px;
+	left: 20px;
+	height: 71px;
+	width: 165px;
+	border-radius: 20% 54% 54% 45% / 21% 70% 46% 83%;
+	background-color: #97C6DA;
+}
