@@ -19,13 +19,6 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.layout__img {
-	display: block;
-	position: absolute;
-	width: 400px;
-	z-index: 3;
-	opacity: 0.5;
-}
 .layout__body {
 	position: absolute;
 	top: 34px;
@@ -35,7 +28,7 @@ body {
 	background-color: #780A37;
 	border: 22px solid black;
 	border-bottom: 20px solid transparent;
-	border-radius: 37% 53% 2% 0% / 47% 45% 0% 0%;
+	border-radius: 37% 53% 0% 0% / 47% 45% 0% 0%;
 }
 .layout__body::before {
 	content: "";
@@ -77,4 +70,47 @@ body {
 	width: 165px;
 	border-radius: 20% 54% 54% 45% / 21% 70% 46% 83%;
 	background-color: #97C6DA;
+}
+.layout__backpack {
+	position: absolute;
+	top: 178px;
+	left: 255px;
+	width: 95px;
+	height: 273px;
+	background-color: #780A37;
+	border: 21px solid black;
+	border-radius: 45% 29% 38% 52% / 31% 46% 42% 23%;
+}
+.body__foot-left {
+	position: absolute;
+	top: 353px;
+	width: 127px;
+	height: 140px;
+	background-color: #780A37;
+	left: -22px;
+	border: 21px solid black;
+	border-radius: 0% 0% 44% 46% / 0% 46% 38% 61%;
+	border-top: 0;
+}
+.body__foot-right {
+	position: absolute;
+	top: 347px;
+	width: 127px;
+	height: 128px;
+	background-color: #780A37;
+	left: 153px;
+	border: 21px solid black;
+	border-radius: 0% 0% 44% 46% / 0% 46% 38% 61%;
+	border-top: 0;
+}
+.body__foot-right::after {
+	position: absolute;
+	top: -3px;
+	left: -88px;
+	width: 106px;
+	height: 31px;
+	background-color: black;
+	content: "";
+	border-radius: 20% 0% 100% 46% / 31% 0% 100% 61%;
+	transform: rotate(-3deg);
 }
