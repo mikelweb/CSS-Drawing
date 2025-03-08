@@ -49,6 +49,8 @@ Let's go with my first drawing!
 ## Forky
 <a href="https://codepen.io/mikelweb/pen/raBXLKp?editors=1100" target="_blank">Codepen</a>
 
+![forky](https://github.com/user-attachments/assets/30d20559-2e98-4041-9cb2-5c1ba730d40f)
+
 ## Bender
 <a href="https://codepen.io/mikelweb/pen/LEYEWeJ?editors=1100" target="_blank">Codepen</a>
 
