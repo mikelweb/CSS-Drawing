@@ -29,7 +29,7 @@ Let's go with my first drawing!
 ## CSS3 Logo
 <a href="https://codepen.io/mikelweb/pen/NPKmKax?editors=1100" target="_blank">Codepen</a>
 
-[![CSS3 Logo](Logo%20CSS3/CSS3-logo.png?raw=true)](#)
+[![CSS3-logo](https://github.com/user-attachments/assets/1da3ad12-1242-4b4a-8eaa-b2a65cb04dcc)](#)
 
 ## Mike Wazowski
 <a href="https://codepen.io/mikelweb/pen/dPbLWga?editors=1100" target="_blank">Codepen</a>
