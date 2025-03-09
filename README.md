@@ -19,7 +19,7 @@ Let's go with my first drawing!
 ## Pokeball
 <a href="https://codepen.io/mikelweb/pen/mybvNJx?editors=1100" target="_blank">Codepen</a>
 
-[![pokeball](Pokeball/pokeball.png?raw=true)](#)
+[![pokeball](https://github.com/user-attachments/assets/6f096015-5668-4f4a-b735-16a96171e3a1)](#)
 
 ## HTML5 Logo
 <a href="https://codepen.io/mikelweb/pen/zxObBbx?editors=1100" target="_blank">Codepen</a>
