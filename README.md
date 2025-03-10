@@ -24,7 +24,7 @@ Let's go with my first drawing!
 ## HTML5 Logo
 <a href="https://codepen.io/mikelweb/pen/zxObBbx?editors=1100" target="_blank">Codepen</a>
 
-[![HTML5 Logo](Logo%20HTML5/HTML5-logo.png?raw=true)](#)
+[![HTML5-logo](https://github.com/user-attachments/assets/fa12e49f-623a-4da7-9290-b93bc4e4eca6)](#)
 
 ## CSS3 Logo
 <a href="https://codepen.io/mikelweb/pen/NPKmKax?editors=1100" target="_blank">Codepen</a>
