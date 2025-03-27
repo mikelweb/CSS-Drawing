@@ -44,7 +44,7 @@ Let's go with my first drawing!
 ## Among Us
 <a href="https://codepen.io/mikelweb/pen/OPLegOy?editors=1100" target="_blank">Codepen</a>
 
-[![Among Us](Among%20Us/among-us.png?raw=true)](#)
+[![among-us](https://github.com/user-attachments/assets/60bcafba-a8c9-4b1b-876c-3f647e4b134f)](#)
 
 ## Forky
 <a href="https://codepen.io/mikelweb/pen/raBXLKp?editors=1100" target="_blank">Codepen</a>
