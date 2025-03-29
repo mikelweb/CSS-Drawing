@@ -34,7 +34,7 @@ Let's go with my first drawing!
 ## Mike Wazowski
 <a href="https://codepen.io/mikelweb/pen/dPbLWga?editors=1100" target="_blank">Codepen</a>
 
-[![Mike Wazowski](Mike%20Wazowski/mike.png?raw=true)](#)
+[![mike](https://github.com/user-attachments/assets/b31be23d-5409-4095-ade8-81a43d0fa908)](#)
 
 ## Android
 <a href="https://codepen.io/mikelweb/pen/QwLXwBZ?editors=1100" target="_blank">Codepen</a>
